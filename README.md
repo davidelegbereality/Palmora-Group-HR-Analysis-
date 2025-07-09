@@ -77,6 +77,9 @@ This project was executed using *Microsoft Power BI*, leveraging multi-source da
 
  Delivered a *clean, interactive dashboard* to aid HR in real-time decision making.
 
+ ![Dashboard Overview]
+ 
+
 Author
 
 *David Reality Elegbe*  
