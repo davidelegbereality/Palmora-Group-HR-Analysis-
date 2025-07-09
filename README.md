@@ -8,7 +8,6 @@ Palmoria Group, a manufacturing company based in Nigeria, faced public scrutiny 
 
 This project was executed using *Microsoft Power BI*, leveraging multi-source data integration, advanced DAX calculations, and interactive visualizations to uncover insights and support decision-making.
 
-
  Business Objectives
 
 - Analyze *gender distribution* across departments and regions.
@@ -84,7 +83,10 @@ This project was executed using *Microsoft Power BI*, leveraging multi-source da
 ![Palmora Group HR Analysis_Gender Distribution by Region](https://github.com/user-attachments/assets/83fb212f-43b5-431b-9b52-9558cf4744eb)
 
 Author
-
 *David Reality Elegbe*  
-[davidelegberealty@gail.com](mailto:davidelegberealty@gail.com)
 
+Contact
+Feel free to reach out for questions, collaboration, or feedback.
+
+*David Reality Elegbe* 
+ [davidelegbereality@gmail.com](mailto:davidelegbereality@gmail.com)
