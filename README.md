@@ -1,4 +1,4 @@
- Palmoria Group HR Analytics Case Study
+ Palmora Group HR Analysis
 
 > Data-driven investigation into gender equality, compensation structure, and regulatory compliance in a Nigerian manufacturing firm.
 
