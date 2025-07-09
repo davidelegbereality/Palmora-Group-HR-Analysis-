@@ -78,7 +78,10 @@ This project was executed using *Microsoft Power BI*, leveraging multi-source da
  Delivered a *clean, interactive dashboard* to aid HR in real-time decision making.
 
  ![Dashboard Overview]
- 
+![Palmora Group Hr Analysis](https://github.com/user-attachments/assets/378fad91-eff1-41a1-a287-340af03c9a27)
+![Palmora Group Hr Analysis_Gender Salary Structure by Region](https://github.com/user-attachments/assets/67b84bc5-de22-4624-b30a-dc240b4ead1e)
+![Palmora Group HR Analysis_Rating by Gender](https://github.com/user-attachments/assets/31760885-93f4-472e-956b-3749ea230843)
+![Palmora Group HR Analysis_Gender Distribution by Region](https://github.com/user-attachments/assets/83fb212f-43b5-431b-9b52-9558cf4744eb)
 
 Author
 
